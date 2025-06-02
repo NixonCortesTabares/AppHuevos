@@ -1,0 +1,32 @@
+# Archivos generados por Android Studio
+*.iml
+.idea/
+build/
+.gradle/
+local.properties
+
+# Archivos de compilación
+*.apk
+*.aab
+*.ap_
+
+# Archivos de caché
+*.cache
+.gradle/
+
+# Archivos sensibles
+*.keystore
+*.jks
+secrets.properties
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Recursos pesados (opcional, si no son esenciales)
+*.png
+*.jpg
+*.mp4
+
+# Otros
+.DS_Store
